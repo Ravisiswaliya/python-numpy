@@ -16,3 +16,4 @@ tensor = np.array([
 #print(tensor)
 #select element from a tensor
 print(tensor[1,0,1])
+
